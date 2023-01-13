@@ -1,5 +1,5 @@
-child process
-virtual address: 
+Child Process
+Virtual Address: 
 0x804a034
 0x804a040
 0x9586008
@@ -7,7 +7,7 @@ virtual address:
 0x804855b
 0xbf86a714
 0xbf86a718
-physical address: 
+Physical Address: 
 0xfcb06034
 0xfcb06040
 0xfb1ff008
@@ -15,8 +15,8 @@ physical address:
 0xfb1f855b
 0xfc846714
 0xfc846718
-parent process
-virtual address: 
+Parent Process
+Virtual Address: 
 0x804a034
 0x804a040
 0x9586008
@@ -24,7 +24,7 @@ virtual address:
 0x804855b
 0xbf86a714
 0xbf86a718
-physical address: 
+Physical Address: 
 0xfc84b034
 0xfc84b040
 0xfc3cc008
