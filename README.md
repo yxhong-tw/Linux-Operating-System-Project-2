@@ -1,4 +1,7 @@
 # Linux-Operating-System-Project-2
+
+The second project of the Linux Operating System course.
+
 ## How to use?
 You can compile `main.c` with below command:
 ```
